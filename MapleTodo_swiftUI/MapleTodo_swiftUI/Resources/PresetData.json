@@ -1,0 +1,56 @@
+[
+  {
+    "id": 3001,
+    "name": "본캐",
+    "selections": [
+      {
+        "todoId": 1001,
+        "isSelected": true
+      },
+      {
+        "todoId": 1002,
+        "isSelected": false
+      },
+      {
+        "todoId": 1004,
+        "isSelected": true
+      }
+    ]
+  },
+  {
+    "id": 3002,
+    "name": "부캐",
+    "selections": [
+      {
+        "todoId": 1001,
+        "isSelected": true
+      },
+      {
+        "todoId": 1002,
+        "isSelected": false
+      },
+      {
+        "todoId": 1003,
+        "isSelected": true
+      }
+    ]
+  },
+  {
+    "id": 3003,
+    "name": "쀼캐",
+    "selections": [
+      {
+        "todoId": 1001,
+        "isSelected": true
+      },
+      {
+        "todoId": 1002,
+        "isSelected": false
+      },
+      {
+        "todoId": 1003,
+        "isSelected": true
+      }
+    ]
+  }
+]
